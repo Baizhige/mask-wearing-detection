@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="gz">
+    <file>gzhu.jpg</file>
+  </qresource>
+</RCC>

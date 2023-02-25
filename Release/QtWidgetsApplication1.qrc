@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="QtWidgetsApplication1">
+    <file>gzhu.jpg</file>
+  </qresource>
+</RCC>
